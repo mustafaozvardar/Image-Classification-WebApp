@@ -13,7 +13,7 @@ This project features an AI model for diagnosing pneumonia from chest X-ray imag
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/username/pneumonia-classification.git
+    git clone https://github.com/username/Image-Classification-WebApp.git
     ```
 2. Install the required Python packages:
     ```bash
