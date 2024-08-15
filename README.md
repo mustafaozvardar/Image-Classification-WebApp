@@ -47,5 +47,10 @@ This project features an AI model for diagnosing pneumonia from chest X-ray imag
 This project is licensed under the MIT License. 
 
 ---
+## Results
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16a3c790-ae10-4c92-8b2b-769fbc30a0ea" alt="result1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f5757959-6fe2-400c-a577-73f663086249" alt="result2" width="400"/>
+</p>
 
 Thank you and happy coding! 😊
