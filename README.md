@@ -53,4 +53,5 @@ This project is licensed under the MIT License.
   <img src="https://github.com/user-attachments/assets/f5757959-6fe2-400c-a577-73f663086249" alt="result2" width="400"/>
 </p>
 
+---
 Thank you and happy coding! 😊
